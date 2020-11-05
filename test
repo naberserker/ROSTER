@@ -1,0 +1,19 @@
+{
+  "embeds": [
+    {
+      "title": "TANKS",
+      "description": "Berserker\nFelnino\nFusioncore\t",
+      "color": 16711680
+    },
+    {
+      "title": "DPS",
+      "description": "Hunters\tClawdacious \tGorm\t\n\tPaladin\tSuntacoco\t\t\n\tWarriors\tOljes\t\t\n\tDeath Knights\tReydoria\tRoodi \t\n\tF. Druid\t\t\t\n\tB. Druid\t\t\t\n\tEnh. Sham\t\t\t\n\tE. Shaman\t\t\t\n\tSpriest\tZaylee\tNarsu\t\n\tRogues\tRiplocke\t\t\n\tDemon Hunters\t\t\t\n\tMages\tTiraney\tMystigus\tFemalerkelly\n\tWarlocks\tDhracula\t\t\n\tMonk\t\t\t",
+      "color": 30975
+    },
+    {
+      "title": "HEALERS",
+      "description": "Druid\tFurrytaco\t\nShaman\tXzempt\t\t\nPriest\t   Shugosei\t\t\nMonk\t\t\t\nPaladin\n",
+      "color": 65280
+    }
+  ]
+}
